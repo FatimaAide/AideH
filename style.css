@@ -1,0 +1,79 @@
+<<<<<<< HEAD
+body{
+    
+    background-color: rgb(214, 119, 240);
+    background-image: url('s1.jpg'); /* Ruta de la imagen de fondo */
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.form-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);;
+}
+    
+h1{
+    text-transform: uppercase;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+.campoNom{
+    text-transform: uppercase;
+}
+.container{
+    position: relative;
+}
+
+/*FATIMA AIDE HERVERT ESPINZOA*/
+=======
+body{
+    
+    background-color: rgb(214, 119, 240);
+    background-image: url('s1.jpg'); /* Ruta de la imagen de fondo */
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.form-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);;
+}
+    
+h1{
+    text-transform: uppercase;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+}
+.campoNom{
+    text-transform: uppercase;
+}
+.container{
+    position: relative;
+}
+
+/*FATIMA AIDE HERVERT ESPINZOA*/
+>>>>>>> ba6c4bd1a92652204915a40cd1d39e73ecc8611d
