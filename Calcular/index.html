@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calcular</title>
+</head>
+    <h1>Operaciones basicas js-Paso de parámetros</h1>
+<body>
+    <form id="miFormulario" name="" >
+        <label for="">Numero 1</label>
+      <div class="input-container">
+        <input type="number" name="" id="valor1" autofocus placeholder="Escribe un numero">
+        <button class="limpiar-button" onclick="limpiar();">Limpiar campos</button>
+      </div>
+
+        <br>
+        <br>
+
+        <label class="number-two" for="">Numero 2</label>
+        <input type="number" name="" id="valor2" autofocus placeholder="Escribe un numero">
+        
+        <br>
+        <br>
+        <button type="button" onclick="Sumar();">+</button>
+        <button type="button" onclick="Restar();">-</button>
+        <button type="button" onclick="Multiplicar();">*</button>
+        <button type="button" onclick="Division();">/</button>
+
+        <p>El resultado es: <span id="el-resultado"></span></p>
+    </form>
+    <footer>
+       <h4> Fatima Aide Hervert Espinoza 3D </h4>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+*{
+    
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px ;
+    border: 1px ;
+
+}
+body{
+    background-color:#7ed6df;
+}
+button{
+    border: 1px solid#130f40 ;
+}
+.limpiar-button {
+    margin-left: 10px;
+}
+.input-container {
+    display: flex;
+    align-items: center;
+}
+h3{
+    text-align: center;
+}
+
+
