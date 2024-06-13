@@ -122,7 +122,7 @@ body{
 }
 
 
-table{
+.table{
     border-collapse: collapse;
     cursor: pointer;
     width: 60%;
